@@ -1,0 +1,59 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.35.32217.1",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/user/source/repos/simpletron/simpletron.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "fcc0c2d72c8719190b98e49603461fed608fdf4c82066956d7906bdd3b4bd450"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/user/source/repos/simpletron/s_operations.h"
+          },
+          "hashes": {
+            "sha-256": "35f0d57e2fa2a4ebee6ac908cb96dca7770dbb961cc05135c7dc3b62354f5a9e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/user/source/repos/simpletron/s_instruction_handler.h"
+          },
+          "hashes": {
+            "sha-256": "2225735f994759765cedfd1f7186e95a44dbe610dc0f0b367f8c769564e98a47"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/user/source/repos/simpletron/s_specs.h"
+          },
+          "hashes": {
+            "sha-256": "a54cfef92f762454be030a70cb52b52bf113dd11fc58f47fd4aaf7f5fb9d1ed6"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿  s_instruction_handler.cpp
+  Simpletron.cpp
+C:\Users\User\source\repos\Simpletron\Simpletron.cpp(107,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  s_operations.cpp
+  Simpletron.vcxproj -> C:\Users\User\source\repos\Simpletron\x64\Debug\Simpletron.exe
