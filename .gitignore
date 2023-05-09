@@ -1,4 +1,6 @@
-# Prerequisites
+*.vs/
+
+ Prerequisites
 *.d
 
 # Compiled Object files
