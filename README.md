@@ -28,7 +28,7 @@ git clone https://github.com/arthurbrenno/simpletron-machine-language.git
 ```
 Or just download it as a .zip
 
-Code -> Download zip
+Code ---> Download zip
 
 
 ## Executing
