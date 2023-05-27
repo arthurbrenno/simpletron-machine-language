@@ -36,7 +36,7 @@ You can Execute by opening the .exe at
 ```bash
 Simpletron\x64\Debug\Simpletron.exe
 ```
-https://github.com/arthurbrenno/simpletron-machine-language/assets/64020210/1c9a015c-3e54-44d6-be2a-70cb7b157d3e
+
 
 ## Contributing
 
