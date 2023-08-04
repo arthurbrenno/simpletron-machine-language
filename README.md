@@ -34,7 +34,7 @@ Code ---> Download zip
 ## Executing
 You can Execute by compiling and opening the .exe at
 ```bash
-Simpletron\x64\Debug\Simpletron.exe
+...\x64\Debug\Simpletron.exe
 ```
 
 
