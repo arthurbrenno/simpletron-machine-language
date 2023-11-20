@@ -41,7 +41,7 @@ You can Execute by compiling and opening the .exe at
 ## Contributing
 
 Pull requests are always welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+to discuss what you would like to change. Thanks a lot.
 
 ## License
 
